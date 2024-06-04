@@ -41,8 +41,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/wbernard/Memorado.git",
-                    "tag" : "0.2",
-                    "commit" : "f74fe87fa672403a39b7de4b52387d1665c50826"
+                    "tag" : "0.3",
+                    "commit" : "e0148868ada56f3b0939bb2542e5f24c16381745"
                 }
             ]
         }
