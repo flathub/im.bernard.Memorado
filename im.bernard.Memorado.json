@@ -30,7 +30,7 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.gnome.org/jwestman/blueprint-compiler",
-                    "tag": "v0.14.0"
+                    "tag": "v0.16.0"
                 }
             ]
         },
@@ -41,8 +41,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/wbernard/Memorado.git",
-                    "tag" : "0.4",
-                    "commit" : "294b34ae2738c6e4a35bae2dec2a027a230999e1"
+                    "tag" : "0.5",
+                    "commit" : "49a1b9fc42bf00700dbf5dcac4e6e4727c7e9bea"
                 }
             ]
         }
