@@ -1,7 +1,7 @@
 {
     "id" : "im.bernard.Memorado",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "49",
+    "runtime-version" : "50",
     "sdk" : "org.gnome.Sdk",
     "command" : "memorado",
     "finish-args" : [
@@ -29,8 +29,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/wbernard/Memorado.git",
-                    "tag" : "0.6",
-                    "commit" : "79eac4155c2d0b95fbfb48557b88b335265aea4d"
+                    "tag" : "0.7",
+                    "commit" : "65922537b1a7099b3103ca10f04955cfe8f88c51"
                 }
             ]
         }
